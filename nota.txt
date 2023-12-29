@@ -1,0 +1,11 @@
+Criando projeto React + Vite
+1_
+comando: npm create vite@latest
+
+2_
+Instalando dependencia
+comando: npm install
+
+3_
+Rodando o projeto
+comando: npm run dev
